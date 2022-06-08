@@ -5,7 +5,7 @@
 ## Contents
 This repository contains training material in the form of references, example notebooks, and some challenging exercises. These exercises try to cover machine learnings basics such as time-series analysis, visualization analysis, as well as clustering, classification and network analysis techniques.
 
-> You can find the link to the slides for this training [here]
+> You can find the link to the slides for this training [here](https://docs.google.com/presentation/d/1p08TNA3hQjS7HNIYQbgSrH8zMR4H6F4QFxRpbuo5nNU/edit?usp=sharing)
 
 ## Prequisite knowledge
 For this training, we assume a basic knowledge of Python ecosystem used for data science. Basic knowledge of:
