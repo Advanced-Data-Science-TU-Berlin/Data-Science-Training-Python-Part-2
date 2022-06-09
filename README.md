@@ -29,7 +29,7 @@ In order to submit you homeworks you need follow these steps:
  - Click on `Open in Colab` then on the top-right corner click on `files` and `Download` the file as `.ipynb`
 5) Now you can open this file using `Jupyter Notebook` on your local machine
 6) Work with your team and apply your changes 
-7) You need to upload your result `ipynb` file in [this](https://drive.google.com/drive/folders/1HnJ69l_fWSFSmvCSEB2WC_o1B6_OgTp8?usp=sharing) shared google drive under your specified team number directory `Team-n`
+7) You need to upload your result `ipynb` file in [this](https://drive.google.com/drive/folders/1lSmOQNKu1nvlMP5GBHa22CujZPT5bLyu?usp=sharing) shared google drive under your specified team number directory `Team-n`
 
 Well Done! :)
  
